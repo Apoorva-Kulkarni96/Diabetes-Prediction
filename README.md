@@ -23,4 +23,6 @@ A system is build using Machine learning algorithm to predict whether a person i
 
 #### Conclusion:
 
+From the given dataset we could see that number of people suffering from Diabetes are 268 and number of people not suffering from Diabetes are 500. By taking mean of all columns present in dataset, we can infer that Glucose level and Insulin Level is considerably high in people those are suffering from Diabetes.
+
 After evaluation, we could see that 78% the model predict correctly. 119 times out of 154 test case, the model has given correct predicton.
